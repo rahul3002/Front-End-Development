@@ -1,10 +1,5 @@
 <!-- @format -->
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
-[![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
-[![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
-[![GitHub stars](https://img.shields.io/github/stars/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/stargazers)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
 # Front-end development
 
@@ -21,7 +16,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 **Make sure to show your support by star mark & sharing the repository**
 
-# A List of Useful Resources for Front End Developers
+# A Curated List of Resources for Front End Developers
 
 ---
 
